@@ -1,0 +1,14 @@
+body{
+    background-image: url('./1_intro-choisir-un-livre.jpeg');
+    background-size: cover;
+}
+
+.formlogin{
+margin-top: 20vh;
+background:rgba(243, 221, 221, 0.822);
+padding:8%;
+}
+label{
+    font-size: 1.5rem;
+    color:black;
+}
